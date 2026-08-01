@@ -1,0 +1,6 @@
+{
+  "name": "CareerIQ",
+  "description": "AI-powered career intelligence app for CV scoring, skills gap analysis, career path recommendation, and resume optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
